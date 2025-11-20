@@ -55,6 +55,7 @@ Clone the repository:
 ```sh
 git clone https://github.com/dsoporan/book-list
 cd book-list
+npm install
 npm run dev
 
 #Testing
