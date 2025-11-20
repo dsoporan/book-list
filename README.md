@@ -53,5 +53,5 @@ A modern, accessible, and reusable **React + TypeScript** application that displ
 Clone the repository:
 
 ```sh
-git clone [Book List](https://github.com/dsoporan/book-list)
+git clone https://github.com/dsoporan/book-list
 cd book-list
